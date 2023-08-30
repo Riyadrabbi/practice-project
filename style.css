@@ -1,0 +1,92 @@
+.what {
+    display: flex;
+    margin-left: 200px;
+}
+
+.js {
+    width: 230px;
+    background-color: white;
+    padding: 15px;
+    margin: 7px;
+    border: 3px gray solid;
+}
+
+.ig {
+    height: 35px;
+    width: 35px;
+}
+
+.react {
+    width: 230px;
+    background-color: white;
+    padding: 15px;
+    margin: 7px;
+    border: 3px gray solid;
+}
+
+.mongo {
+    width: 230px;
+    background-color: white;
+    padding: 15px;
+    margin: 7px;
+    border: 3px gray solid;
+}
+
+.node {
+    width: 230px;
+    background-color: white;
+    padding: 15px;
+    margin: 7px;
+    border: 3px gray solid;
+}
+
+.summary {
+    display: flex;
+    gap: 16px;
+    margin-left: 270px;
+}
+
+.edu {
+    border: 1px solid white;
+}
+
+.exp {
+    border: white solid white;
+}
+
+.un {
+    border-bottom: 2px solid grey;
+}
+
+.cv {
+    border: 2px solid orangered;
+    text-align: center;
+    margin-left: 750px;
+    background-color: yellow;
+    text-decoration: none;
+}
+
+.foo {
+    display: flex;
+    gap: 15px;
+    border: 1px solid gray;
+    background-color: #fdfaf1;
+    margin-left: 300px;
+    width: 1000px;
+}
+
+.con {
+    width: 200px;
+    margin-left: 250px;
+}
+
+.mss {
+    margin-left: 350px;
+}
+
+#butt {
+    background-color: orange;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 50px;
+}
